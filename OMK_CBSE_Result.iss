@@ -2,10 +2,10 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "CBSE Result"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.4"
 #define MyAppPublisher "Zero Day Codex, Inc."
 #define MyAppURL "https://www.zerodaycodeanalysis.blogspot.com"
-#define MyAppExeName "Result_Soft.exe"
+#define MyAppExeName "Result_Soft_ver_5.exe"
 #define MyAppAssocName MyAppName + " File"
 #define MyAppAssocExt ".myp"
 #define MyAppAssocKey StringChange(MyAppAssocName, " ", "") + MyAppAssocExt
@@ -36,7 +36,7 @@ DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
 OutputBaseFilename=cbseresult
-SetupIconFile=C:\Users\abhij\Downloads\Azure203\OMK_CBSE_Result\cbse_TNC_icon.ico
+SetupIconFile=C:\Users\abhij\Downloads\python code\OMK_CBSE_RESULT-master\cbse_TNC_icon.ico
 Password=zxcvbnm2209
 Encryption=yes
 SolidCompression=yes
@@ -49,7 +49,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\abhij\Downloads\Azure203\OMK_CBSE_Result\dist\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\abhij\Downloads\python code\OMK_CBSE_RESULT-master\dist\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
