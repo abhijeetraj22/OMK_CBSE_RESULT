@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Excel-Automation-orange?logo=microsoft-excel">
   <img src="https://img.shields.io/badge/Pandas-Data%20Processing-green?logo=pandas" />
   <img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" />
-  <img src="https://img.shields.io/github/license/abhijeetraj22/OMK_CBSE_RESULT" />
   <img src="https://img.shields.io/github/stars/abhijeetraj22/OMK_CBSE_RESULT?style=social" />
 </p>
 
