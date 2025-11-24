@@ -1,7 +1,7 @@
 # 📘 **CBSE Result Soft**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetraj22/OMK_CBSE_RESULT/master/cbse_logo.png" width="140">
+  <img src="OMK_CBSE_RESULT_IMAGE/cbse_TNC_icon.ico" width="140">
 </p>
 
 <p align="center">
@@ -26,10 +26,15 @@
 
 # 🎞 **Preview**
 
-> *(Replace `preview.jpg` with your actual file after uploading to GitHub)*
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetraj22/OMK_CBSE_RESULT/master/preview.jpg" width="700">
+  <img src="OMK_CBSE_RESULT_IMAGE/A1.png" width="600">
+</p>
+<p float="left">
+  <img src="OMK_CBSE_RESULT_IMAGE/A2.png" width="45%" />
+  <img src="OMK_CBSE_RESULT_IMAGE/A4.png" width="45%" />
+</p>
+<p align="center">
+  <img src="OMK_CBSE_RESULT_IMAGE/A3.png" width="500">
 </p>
 
 ---
@@ -465,9 +470,9 @@ This project is licensed under the **MIT License**.
 
 # 🌐 Connect With Me
 
-[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50">](https://www.linkedin.com/in/rajabhijeet22/)
-[<img src="https://img.icons8.com/bubbles/100/000000/github.png" width="50">](https://github.com/abhijeetraj22)
-[<img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="50">](https://www.instagram.com/abhijeet_raj_/)
-[<img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width="50">](https://twitter.com/abhijeet_raj_/)
+[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="80">](https://www.linkedin.com/in/rajabhijeet22/)
+[<img src="https://img.icons8.com/bubbles/100/000000/github.png" width="80">](https://github.com/abhijeetraj22)
+[<img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="80">](https://www.instagram.com/abhijeet_raj_/)
+[<img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width="80">](https://twitter.com/abhijeet_raj_/)
 
 
