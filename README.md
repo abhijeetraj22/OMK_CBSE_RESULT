@@ -318,47 +318,6 @@ sudo apt install python3-tk
 
 ---
 
-# ▶️ **How to Use**
-
-### **Step 1 — Run the Software**
-
-```
-python main.py
-```
-
-### **Step 2 — Choose Version**
-
-* Grade 10
-* Grade 12
-
-### **Step 3 — Upload RAW TXT File**
-
-Click **Choose File** → Select CBSE `.txt` file.
-
-### **Step 4 — Paste a Sample Student Line**
-
-Copy 1 student record from your RAW TXT & paste.
-
-### **Step 5 — Validate**
-
-The system checks:
-
-* Correct subject codes
-* Correct grade selection
-* Proper line format
-
-### **Step 6 — Generate Excel**
-
-Click:
-
-```
-Save and Generate Excel
-```
-
-Then select file name → Excel file is created with Summary sheet.
-
----
-
 # 🎯 **UML Workflow Diagram**
 
 ## **ASCII Version** 
@@ -410,16 +369,6 @@ flowchart TD
     F --> G[Generate Excel Report]
     G --> H[Thank You Screen]
 ```
-
----
-
-# 📘 **Code Snippet Example**
-
-```python
-app = CBSEParserApp()
-app.mainloop()
-```
-
 ---
 
 # 🏗 **Build Standalone EXE**
@@ -470,9 +419,9 @@ This project is licensed under the **MIT License**.
 
 # 🌐 Connect With Me
 
-[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="80">](https://www.linkedin.com/in/rajabhijeet22/)
-[<img src="https://img.icons8.com/bubbles/100/000000/github.png" width="80">](https://github.com/abhijeetraj22)
-[<img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="80">](https://www.instagram.com/abhijeet_raj_/)
-[<img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width="80">](https://twitter.com/abhijeet_raj_/)
+[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="90">](https://www.linkedin.com/in/rajabhijeet22/)
+[<img src="https://img.icons8.com/bubbles/100/000000/github.png" width="90">](https://github.com/abhijeetraj22)
+[<img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="90">](https://www.instagram.com/abhijeet_raj_/)
+[<img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width="90">](https://twitter.com/abhijeet_raj_/)
 
 
